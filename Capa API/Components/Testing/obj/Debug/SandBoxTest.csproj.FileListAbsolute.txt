@@ -12,3 +12,17 @@ C:\Users\dcordoba.SSVMN\Documents\Visual Studio 2017\Projects\cenfo_proyecto_2_2
 C:\Users\dcordoba.SSVMN\Documents\Visual Studio 2017\Projects\cenfo_proyecto_2_2018\API\Components\Testing\obj\Debug\SandBoxTest.csproj.CopyComplete
 C:\Users\dcordoba.SSVMN\Documents\Visual Studio 2017\Projects\cenfo_proyecto_2_2018\API\Components\Testing\obj\Debug\Testing.exe
 C:\Users\dcordoba.SSVMN\Documents\Visual Studio 2017\Projects\cenfo_proyecto_2_2018\API\Components\Testing\obj\Debug\Testing.pdb
+C:\Users\Developer\Documents\repos\CENFO_IPS201901\cenfo_proyecto_2_2019_01\Capa API\Components\Testing\obj\Debug\SandBoxTest.csprojAssemblyReference.cache
+C:\Users\Developer\Documents\repos\CENFO_IPS201901\cenfo_proyecto_2_2019_01\Capa API\Components\Testing\obj\Debug\SandBoxTest.csproj.CoreCompileInputs.cache
+C:\Users\Developer\Documents\repos\CENFO_IPS201901\cenfo_proyecto_2_2019_01\Capa API\Components\Testing\bin\Debug\Testing.exe.config
+C:\Users\Developer\Documents\repos\CENFO_IPS201901\cenfo_proyecto_2_2019_01\Capa API\Components\Testing\bin\Debug\Testing.exe
+C:\Users\Developer\Documents\repos\CENFO_IPS201901\cenfo_proyecto_2_2019_01\Capa API\Components\Testing\bin\Debug\Testing.pdb
+C:\Users\Developer\Documents\repos\CENFO_IPS201901\cenfo_proyecto_2_2019_01\Capa API\Components\Testing\bin\Debug\DataAcess.dll
+C:\Users\Developer\Documents\repos\CENFO_IPS201901\cenfo_proyecto_2_2019_01\Capa API\Components\Testing\bin\Debug\Entities-POJO.dll
+C:\Users\Developer\Documents\repos\CENFO_IPS201901\cenfo_proyecto_2_2019_01\Capa API\Components\Testing\bin\Debug\Exceptions.dll
+C:\Users\Developer\Documents\repos\CENFO_IPS201901\cenfo_proyecto_2_2019_01\Capa API\Components\Testing\bin\Debug\DataAcess.pdb
+C:\Users\Developer\Documents\repos\CENFO_IPS201901\cenfo_proyecto_2_2019_01\Capa API\Components\Testing\bin\Debug\Entities-POJO.pdb
+C:\Users\Developer\Documents\repos\CENFO_IPS201901\cenfo_proyecto_2_2019_01\Capa API\Components\Testing\bin\Debug\Exceptions.pdb
+C:\Users\Developer\Documents\repos\CENFO_IPS201901\cenfo_proyecto_2_2019_01\Capa API\Components\Testing\obj\Debug\SandBoxTest.csproj.CopyComplete
+C:\Users\Developer\Documents\repos\CENFO_IPS201901\cenfo_proyecto_2_2019_01\Capa API\Components\Testing\obj\Debug\Testing.exe
+C:\Users\Developer\Documents\repos\CENFO_IPS201901\cenfo_proyecto_2_2019_01\Capa API\Components\Testing\obj\Debug\Testing.pdb

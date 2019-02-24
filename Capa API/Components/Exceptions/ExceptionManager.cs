@@ -48,7 +48,7 @@ namespace Exceptions
 
         private void ProcessBussinesException(BussinessException bex)
         {
-            var today = DateTime.Now.ToString("YYYYMMdd");
+            var today = DateTime.Now.ToString("yyyyMMdd_hh");
             var logName = PATH + today  + "_" + "log.txt";
 
             var message = bex.Message + "\n" + bex.StackTrace + "\n";
@@ -70,8 +70,10 @@ namespace Exceptions
         public ApplicationMessage GetMessage(BussinessException bex)
         {
 
-            var appMessage = new ApplicationMessage();
-            appMessage.Message = "Message not found!";
+            var appMessage = new ApplicationMessage
+            {
+                Message = "Message not found!"
+            };
 
             if (messages.ContainsKey(bex.ExceptionId))
                 appMessage = messages[bex.ExceptionId];
@@ -83,14 +85,14 @@ namespace Exceptions
         private void LoadMessages()
         {
 
-            var crudMessages = new AppMessagesCrudFactory();
+            //var crudMessages = new AppMessagesCrudFactory();
 
-            var lstMessages = crudMessages.RetrieveAll<ApplicationMessage>();
+            //var lstMessages = crudMessages.RetrieveAll<ApplicationMessage>();
 
-            foreach(var appMessage in lstMessages)
-            {
-                messages.Add(appMessage.Id, appMessage);
-            }  
+            //foreach(var appMessage in lstMessages)
+            //{
+            //    messages.Add(appMessage.Id, appMessage);
+            //}  
 
         }
 

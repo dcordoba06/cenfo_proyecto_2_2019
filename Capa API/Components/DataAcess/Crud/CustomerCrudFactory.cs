@@ -18,11 +18,12 @@ namespace DataAcess.Crud
 
         public override void Create(BaseEntity entity)
         {
-                var customer = (Customer)entity;
-                var sqlOperation = mapper.GetCreateStatement(customer);
-
-                dao.ExecuteProcedure(sqlOperation);
+            var customer=(Customer) entity;
+            var sqlOperation = mapper.GetCreateStatement(customer);
+            dao.ExecuteProcedure(sqlOperation);
         }
+
+      
 
         public override T Retrieve<T>(BaseEntity entity)
         {

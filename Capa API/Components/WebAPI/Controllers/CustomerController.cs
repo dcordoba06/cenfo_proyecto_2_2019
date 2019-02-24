@@ -19,6 +19,7 @@ namespace WebAPI.Controllers
         ApiResponse apiResp = new ApiResponse();
 
         // GET api/customer
+        // Retrieve
         public IHttpActionResult Get()
         {
 
@@ -30,6 +31,7 @@ namespace WebAPI.Controllers
         }
 
         // GET api/customer/5
+        // Retrieve by id
         public IHttpActionResult Get(string id)
         {
             try
@@ -52,6 +54,7 @@ namespace WebAPI.Controllers
         }
 
         // POST 
+        // CREATE
         public IHttpActionResult Post(Customer customer)
         {
 
@@ -73,6 +76,7 @@ namespace WebAPI.Controllers
         }
 
         // PUT
+        // UPDATE
         public IHttpActionResult Put(Customer customer)
         {
             try
@@ -91,7 +95,7 @@ namespace WebAPI.Controllers
             }
         }
 
-        // DELETE 
+        // DELETE ==
         public IHttpActionResult Delete(Customer customer)
         {
             try

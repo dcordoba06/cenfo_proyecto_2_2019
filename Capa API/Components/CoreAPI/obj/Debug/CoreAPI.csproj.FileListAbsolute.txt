@@ -11,3 +11,16 @@ C:\Users\dcordoba.SSVMN\Documents\Visual Studio 2017\Projects\cenfo_proyecto_2_2
 C:\Users\dcordoba.SSVMN\Documents\Visual Studio 2017\Projects\cenfo_proyecto_2_2018\API\Components\CoreAPI\obj\Debug\CoreAPI.csproj.CopyComplete
 C:\Users\dcordoba.SSVMN\Documents\Visual Studio 2017\Projects\cenfo_proyecto_2_2018\API\Components\CoreAPI\obj\Debug\CoreAPI.dll
 C:\Users\dcordoba.SSVMN\Documents\Visual Studio 2017\Projects\cenfo_proyecto_2_2018\API\Components\CoreAPI\obj\Debug\CoreAPI.pdb
+C:\Users\Developer\Documents\repos\CENFO_IPS201901\cenfo_proyecto_2_2019_01\Capa API\Components\CoreAPI\bin\Debug\CoreAPI.dll
+C:\Users\Developer\Documents\repos\CENFO_IPS201901\cenfo_proyecto_2_2019_01\Capa API\Components\CoreAPI\bin\Debug\CoreAPI.pdb
+C:\Users\Developer\Documents\repos\CENFO_IPS201901\cenfo_proyecto_2_2019_01\Capa API\Components\CoreAPI\bin\Debug\DataAcess.dll
+C:\Users\Developer\Documents\repos\CENFO_IPS201901\cenfo_proyecto_2_2019_01\Capa API\Components\CoreAPI\bin\Debug\Entities-POJO.dll
+C:\Users\Developer\Documents\repos\CENFO_IPS201901\cenfo_proyecto_2_2019_01\Capa API\Components\CoreAPI\bin\Debug\Exceptions.dll
+C:\Users\Developer\Documents\repos\CENFO_IPS201901\cenfo_proyecto_2_2019_01\Capa API\Components\CoreAPI\bin\Debug\DataAcess.pdb
+C:\Users\Developer\Documents\repos\CENFO_IPS201901\cenfo_proyecto_2_2019_01\Capa API\Components\CoreAPI\bin\Debug\Entities-POJO.pdb
+C:\Users\Developer\Documents\repos\CENFO_IPS201901\cenfo_proyecto_2_2019_01\Capa API\Components\CoreAPI\bin\Debug\Exceptions.pdb
+C:\Users\Developer\Documents\repos\CENFO_IPS201901\cenfo_proyecto_2_2019_01\Capa API\Components\CoreAPI\obj\Debug\CoreAPI.csproj.CoreCompileInputs.cache
+C:\Users\Developer\Documents\repos\CENFO_IPS201901\cenfo_proyecto_2_2019_01\Capa API\Components\CoreAPI\obj\Debug\CoreAPI.csproj.CopyComplete
+C:\Users\Developer\Documents\repos\CENFO_IPS201901\cenfo_proyecto_2_2019_01\Capa API\Components\CoreAPI\obj\Debug\CoreAPI.dll
+C:\Users\Developer\Documents\repos\CENFO_IPS201901\cenfo_proyecto_2_2019_01\Capa API\Components\CoreAPI\obj\Debug\CoreAPI.pdb
+C:\Users\Developer\Documents\repos\CENFO_IPS201901\cenfo_proyecto_2_2019_01\Capa API\Components\CoreAPI\obj\Debug\CoreAPI.csprojAssemblyReference.cache

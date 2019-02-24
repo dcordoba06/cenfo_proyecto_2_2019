@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Configuration;
 using System.Data;
 using System.Data.SqlClient;
 using System.Linq;
@@ -11,15 +12,17 @@ namespace DataAcess.Dao
     public class SqlDao
     {   
                      
-       private const string CONNECTION_STRING = "Data Source=.;Initial Catalog=MY_DATA_BASE;Integrated Security=True;Pooling=False";
+       private string CONNECTION_STRING = "";
        
        private static SqlDao instance;
 
         private SqlDao()
         {
-
+            CONNECTION_STRING=ConfigurationManager.ConnectionStrings["CONN_STRING"].ConnectionString;
         }
 
+        //IMPLEMENTA EL PATRON LLAMADO SINGLETON
+        //INVESTIGAR EL PATRON
         public static SqlDao GetInstance()
         {
             if (instance == null)

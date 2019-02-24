@@ -7,7 +7,6 @@ namespace DataAcess.Crud
     public abstract class CrudFactory
     {
         protected SqlDao dao;
-        public string COMPONENT = "DATA_ACCESS";
 
         public abstract void Create(BaseEntity entity);
         public abstract T Retrieve<T>(BaseEntity entity);        

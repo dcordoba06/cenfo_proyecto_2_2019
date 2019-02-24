@@ -9,3 +9,14 @@ C:\Users\dcordoba.SSVMN\Documents\Visual Studio 2017\Projects\cenfo_proyecto_2_2
 C:\Users\dcordoba.SSVMN\Documents\Visual Studio 2017\Projects\cenfo_proyecto_2_2018\API\Components\Exceptions\obj\Debug\Exceptions.csproj.CopyComplete
 C:\Users\dcordoba.SSVMN\Documents\Visual Studio 2017\Projects\cenfo_proyecto_2_2018\API\Components\Exceptions\obj\Debug\Exceptions.dll
 C:\Users\dcordoba.SSVMN\Documents\Visual Studio 2017\Projects\cenfo_proyecto_2_2018\API\Components\Exceptions\obj\Debug\Exceptions.pdb
+C:\Users\Developer\Documents\repos\CENFO_IPS201901\cenfo_proyecto_2_2019_01\Capa API\Components\Exceptions\obj\Debug\Exceptions.csprojAssemblyReference.cache
+C:\Users\Developer\Documents\repos\CENFO_IPS201901\cenfo_proyecto_2_2019_01\Capa API\Components\Exceptions\obj\Debug\Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\Developer\Documents\repos\CENFO_IPS201901\cenfo_proyecto_2_2019_01\Capa API\Components\Exceptions\bin\Debug\Exceptions.dll
+C:\Users\Developer\Documents\repos\CENFO_IPS201901\cenfo_proyecto_2_2019_01\Capa API\Components\Exceptions\bin\Debug\Exceptions.pdb
+C:\Users\Developer\Documents\repos\CENFO_IPS201901\cenfo_proyecto_2_2019_01\Capa API\Components\Exceptions\bin\Debug\DataAcess.dll
+C:\Users\Developer\Documents\repos\CENFO_IPS201901\cenfo_proyecto_2_2019_01\Capa API\Components\Exceptions\bin\Debug\Entities-POJO.dll
+C:\Users\Developer\Documents\repos\CENFO_IPS201901\cenfo_proyecto_2_2019_01\Capa API\Components\Exceptions\bin\Debug\DataAcess.pdb
+C:\Users\Developer\Documents\repos\CENFO_IPS201901\cenfo_proyecto_2_2019_01\Capa API\Components\Exceptions\bin\Debug\Entities-POJO.pdb
+C:\Users\Developer\Documents\repos\CENFO_IPS201901\cenfo_proyecto_2_2019_01\Capa API\Components\Exceptions\obj\Debug\Exceptions.csproj.CopyComplete
+C:\Users\Developer\Documents\repos\CENFO_IPS201901\cenfo_proyecto_2_2019_01\Capa API\Components\Exceptions\obj\Debug\Exceptions.dll
+C:\Users\Developer\Documents\repos\CENFO_IPS201901\cenfo_proyecto_2_2019_01\Capa API\Components\Exceptions\obj\Debug\Exceptions.pdb
