@@ -1,0 +1,11 @@
+C:\Users\dcordoba.SSVMN\Documents\Visual Studio 2017\Projects\cenfo_proyecto_2_2018\API\Components\Exceptions\bin\Debug\Exceptions.dll
+C:\Users\dcordoba.SSVMN\Documents\Visual Studio 2017\Projects\cenfo_proyecto_2_2018\API\Components\Exceptions\bin\Debug\Exceptions.pdb
+C:\Users\dcordoba.SSVMN\Documents\Visual Studio 2017\Projects\cenfo_proyecto_2_2018\API\Components\Exceptions\bin\Debug\DataAcess.dll
+C:\Users\dcordoba.SSVMN\Documents\Visual Studio 2017\Projects\cenfo_proyecto_2_2018\API\Components\Exceptions\bin\Debug\Entities-POJO.dll
+C:\Users\dcordoba.SSVMN\Documents\Visual Studio 2017\Projects\cenfo_proyecto_2_2018\API\Components\Exceptions\bin\Debug\DataAcess.pdb
+C:\Users\dcordoba.SSVMN\Documents\Visual Studio 2017\Projects\cenfo_proyecto_2_2018\API\Components\Exceptions\bin\Debug\Entities-POJO.pdb
+C:\Users\dcordoba.SSVMN\Documents\Visual Studio 2017\Projects\cenfo_proyecto_2_2018\API\Components\Exceptions\obj\Debug\Exceptions.csprojAssemblyReference.cache
+C:\Users\dcordoba.SSVMN\Documents\Visual Studio 2017\Projects\cenfo_proyecto_2_2018\API\Components\Exceptions\obj\Debug\Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\dcordoba.SSVMN\Documents\Visual Studio 2017\Projects\cenfo_proyecto_2_2018\API\Components\Exceptions\obj\Debug\Exceptions.csproj.CopyComplete
+C:\Users\dcordoba.SSVMN\Documents\Visual Studio 2017\Projects\cenfo_proyecto_2_2018\API\Components\Exceptions\obj\Debug\Exceptions.dll
+C:\Users\dcordoba.SSVMN\Documents\Visual Studio 2017\Projects\cenfo_proyecto_2_2018\API\Components\Exceptions\obj\Debug\Exceptions.pdb

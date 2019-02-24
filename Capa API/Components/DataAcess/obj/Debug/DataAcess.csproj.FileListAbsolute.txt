@@ -1,0 +1,9 @@
+C:\Users\dcordoba.SSVMN\Documents\Visual Studio 2017\Projects\cenfo_proyecto_2_2018\API\Components\DataAcess\bin\Debug\DataAcess.dll
+C:\Users\dcordoba.SSVMN\Documents\Visual Studio 2017\Projects\cenfo_proyecto_2_2018\API\Components\DataAcess\bin\Debug\DataAcess.pdb
+C:\Users\dcordoba.SSVMN\Documents\Visual Studio 2017\Projects\cenfo_proyecto_2_2018\API\Components\DataAcess\bin\Debug\Entities-POJO.dll
+C:\Users\dcordoba.SSVMN\Documents\Visual Studio 2017\Projects\cenfo_proyecto_2_2018\API\Components\DataAcess\bin\Debug\Entities-POJO.pdb
+C:\Users\dcordoba.SSVMN\Documents\Visual Studio 2017\Projects\cenfo_proyecto_2_2018\API\Components\DataAcess\obj\Debug\DataAcess.csprojAssemblyReference.cache
+C:\Users\dcordoba.SSVMN\Documents\Visual Studio 2017\Projects\cenfo_proyecto_2_2018\API\Components\DataAcess\obj\Debug\DataAcess.csproj.CoreCompileInputs.cache
+C:\Users\dcordoba.SSVMN\Documents\Visual Studio 2017\Projects\cenfo_proyecto_2_2018\API\Components\DataAcess\obj\Debug\DataAcess.csproj.CopyComplete
+C:\Users\dcordoba.SSVMN\Documents\Visual Studio 2017\Projects\cenfo_proyecto_2_2018\API\Components\DataAcess\obj\Debug\DataAcess.dll
+C:\Users\dcordoba.SSVMN\Documents\Visual Studio 2017\Projects\cenfo_proyecto_2_2018\API\Components\DataAcess\obj\Debug\DataAcess.pdb

@@ -21,6 +21,8 @@ namespace DataAcess.Dao
             CONNECTION_STRING=ConfigurationManager.ConnectionStrings["CONN_STRING"].ConnectionString;
         }
 
+        //IMPLEMENTA EL PATRON LLAMADO SINGLETON
+        //INVESTIGAR EL PATRON
         public static SqlDao GetInstance()
         {
             if (instance == null)
