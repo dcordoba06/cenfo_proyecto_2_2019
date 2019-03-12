@@ -1,0 +1,37 @@
+﻿@using WebApp.Helpers;
+<script src="~/Scripts/Views/vCustomers.js"></script>
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@Html.CtrlTable(viewName: "vCustomers", id: "tblCustomers", title: "Customer List",
+    columnsTitle: "Id,Name,LastName,Age", ColumnsDataName: "Id,Name,LastName,Age", onSelectFunction: "BindFields", colorHeader:"red")
+
+
+<div class="card border-secondary" style="margin-top: 50px;">
+    <div class="card-header">
+        <div class="row pull-right">
+            <div class="col-md-8">Customer edition</div>
+            <div class="col-md-4">
+                @Html.CtrlButton(viewName: "vCustomers", id: "btnCreate", label: "Save", onClickFunction: "Create", buttonType:"success")
+                @Html.CtrlButton(viewName: "vCustomers", id: "btnUpdate", label: "Save changes", onClickFunction: "Update", buttonType: "info")
+                @Html.CtrlButton(viewName: "vCustomers", id: "btnDelete", label: "Delete", onClickFunction: "Delete",buttonType: "danger")
+            </div>
+        </div>
+    </div>
+    <div class="card-body">
+        <div class="row">
+            <div class="col-lg-6">
+                <div class="bs-component">
+                    <form id="frmEdition">
+                        @Html.CtrlInput(id: "txtId", type: "text", label: "Id", columnDataName: "Id")
+                        @Html.CtrlInput(id: "txtName", type: "text", label: "Name", columnDataName: "Name")
+                        @Html.CtrlInput(id: "txtLastName", type: "text", label: "LastName", columnDataName: "LastName")
+                        @Html.CtrlInput(id: "txtAge", type: "number", label: "Age", columnDataName: "Age")
+                       @* @Html.CtrlDropDown(id: "drpGender", label: "Gender", listId: "LST_GENERO")*@
+                    </form>
+                </div>
+            </div>
+        </div>
+     </div>
+</div>

@@ -1,0 +1,33 @@
+﻿<script>
+    $(document).ready(function () {
+        var table = $('#-#Id-').DataTable();
+        $('#-#Id- tbody').on('click', 'tr', function () {
+            var data = table.row(this).data();
+            sessionStorage.setItem('-#Id-_selected',data);
+            console.log(data);
+
+            var view = new -#ViewName-();
+            if (view != undefined) {
+                view.-#FunctionName-(data);
+            }
+        });
+    });
+</script>
+
+<div class="card border-secondary mb-6">
+    <div class="card-header">-#Title-</div>
+    <div class="card-body">
+        <table id="-#Id-" class="display" cellspacing="0" width="100%" 
+               ColumnsDataName="-#ColumnsDataName-">
+            <thead>
+                <tr>
+                    -#ColumnHeaders-
+                </tr>
+            </thead>
+            <tbody>
+            </tbody>
+        </table>
+    </div>
+</div>
+<!--Bootstrap-->
+

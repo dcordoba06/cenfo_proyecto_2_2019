@@ -1,0 +1,61 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Customers App</title>
+    <script src="~/Scripts/jquery-3.3.1.min.js"></script>
+    <script src="~/Scripts/bootstrap.min.js"></script>
+    <script src="~/Scripts/jquery.dataTables.min.js"></script>
+    <link href="~/Content/bootstrap.css" rel="stylesheet" />
+    <link href="~/Content/jquery.dataTables.min.css" rel="stylesheet" />
+    <link href="~/Content/Site.css" rel="stylesheet" />
+    <script src="~/Scripts/Views/ControlActions.js"></script>
+</head>
+<body>
+    <div class="navbar navbar-expand-lg fixed-top navbar-dark bg-primary">
+        <div class="container">
+            <a href="../" class="navbar-brand">Customers App</a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarResponsive">
+                <ul class="navbar-nav">
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" id="themes">Customers <span class="caret"></span></a>
+                        <div class="dropdown-menu" aria-labelledby="Customers">
+                            @Html.ActionLink("Home", "Index", "Home", new { @class = "dropdown-item" })
+                    <div class="dropdown-divider"></div>
+                            @Html.ActionLink("Query Customers", "vCustomers", "Home", new { @class = "dropdown-item" })
+                            @Html.ActionLink("Create Customer", "ECustomers", "Home", new { @class = "dropdown-item" })
+
+                    </div>
+                </ul>
+                <ul class="nav navbar-nav ml-auto">
+                    <li class="nav-item">
+                        <a class="nav-link" href="https://wrapbootstrap.com/?ref=bsw" >Allan Turing</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="http://builtwithbootstrap.com/">Salir</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+
+    <div class="container body-content" >
+        <div class="alert alert-success alert-dismissable" style="display: none" id="alert_container">
+            <button type="button" class="close" onclick="$('.alert').hide()">&times;</button>
+            <span id="alert_message"></span>
+        </div>
+        @RenderBody()
+        <hr />
+        
+    </div>
+</body>
+@*<script>
+    $(document).ready(function () {
+        $('.alert').hide();
+    });
+</script>*@
+</html>

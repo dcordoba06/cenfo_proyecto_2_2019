@@ -1,0 +1,174 @@
+C:\Users\dcordoba.SSVMN\Documents\Visual Studio 2017\Projects\cenfo_proyecto_2_2018\API\Components\WebAPI\bin\ApplicationInsights.config
+C:\Users\dcordoba.SSVMN\Documents\Visual Studio 2017\Projects\cenfo_proyecto_2_2018\API\Components\WebAPI\bin\WebAPI.dll.config
+C:\Users\dcordoba.SSVMN\Documents\Visual Studio 2017\Projects\cenfo_proyecto_2_2018\API\Components\WebAPI\bin\WebAPI.dll
+C:\Users\dcordoba.SSVMN\Documents\Visual Studio 2017\Projects\cenfo_proyecto_2_2018\API\Components\WebAPI\bin\WebAPI.pdb
+C:\Users\dcordoba.SSVMN\Documents\Visual Studio 2017\Projects\cenfo_proyecto_2_2018\API\Components\WebAPI\bin\Antlr3.Runtime.dll
+C:\Users\dcordoba.SSVMN\Documents\Visual Studio 2017\Projects\cenfo_proyecto_2_2018\API\Components\WebAPI\bin\CoreAPI.dll
+C:\Users\dcordoba.SSVMN\Documents\Visual Studio 2017\Projects\cenfo_proyecto_2_2018\API\Components\WebAPI\bin\Entities-POJO.dll
+C:\Users\dcordoba.SSVMN\Documents\Visual Studio 2017\Projects\cenfo_proyecto_2_2018\API\Components\WebAPI\bin\Exceptions.dll
+C:\Users\dcordoba.SSVMN\Documents\Visual Studio 2017\Projects\cenfo_proyecto_2_2018\API\Components\WebAPI\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\dcordoba.SSVMN\Documents\Visual Studio 2017\Projects\cenfo_proyecto_2_2018\API\Components\WebAPI\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\dcordoba.SSVMN\Documents\Visual Studio 2017\Projects\cenfo_proyecto_2_2018\API\Components\WebAPI\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\dcordoba.SSVMN\Documents\Visual Studio 2017\Projects\cenfo_proyecto_2_2018\API\Components\WebAPI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\dcordoba.SSVMN\Documents\Visual Studio 2017\Projects\cenfo_proyecto_2_2018\API\Components\WebAPI\bin\Microsoft.AI.Web.dll
+C:\Users\dcordoba.SSVMN\Documents\Visual Studio 2017\Projects\cenfo_proyecto_2_2018\API\Components\WebAPI\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\dcordoba.SSVMN\Documents\Visual Studio 2017\Projects\cenfo_proyecto_2_2018\API\Components\WebAPI\bin\Microsoft.ApplicationInsights.dll
+C:\Users\dcordoba.SSVMN\Documents\Visual Studio 2017\Projects\cenfo_proyecto_2_2018\API\Components\WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\dcordoba.SSVMN\Documents\Visual Studio 2017\Projects\cenfo_proyecto_2_2018\API\Components\WebAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\dcordoba.SSVMN\Documents\Visual Studio 2017\Projects\cenfo_proyecto_2_2018\API\Components\WebAPI\bin\Newtonsoft.Json.dll
+C:\Users\dcordoba.SSVMN\Documents\Visual Studio 2017\Projects\cenfo_proyecto_2_2018\API\Components\WebAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\dcordoba.SSVMN\Documents\Visual Studio 2017\Projects\cenfo_proyecto_2_2018\API\Components\WebAPI\bin\System.Web.Helpers.dll
+C:\Users\dcordoba.SSVMN\Documents\Visual Studio 2017\Projects\cenfo_proyecto_2_2018\API\Components\WebAPI\bin\System.Web.Http.dll
+C:\Users\dcordoba.SSVMN\Documents\Visual Studio 2017\Projects\cenfo_proyecto_2_2018\API\Components\WebAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\dcordoba.SSVMN\Documents\Visual Studio 2017\Projects\cenfo_proyecto_2_2018\API\Components\WebAPI\bin\System.Web.Mvc.dll
+C:\Users\dcordoba.SSVMN\Documents\Visual Studio 2017\Projects\cenfo_proyecto_2_2018\API\Components\WebAPI\bin\System.Web.Optimization.dll
+C:\Users\dcordoba.SSVMN\Documents\Visual Studio 2017\Projects\cenfo_proyecto_2_2018\API\Components\WebAPI\bin\System.Web.Razor.dll
+C:\Users\dcordoba.SSVMN\Documents\Visual Studio 2017\Projects\cenfo_proyecto_2_2018\API\Components\WebAPI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\dcordoba.SSVMN\Documents\Visual Studio 2017\Projects\cenfo_proyecto_2_2018\API\Components\WebAPI\bin\System.Web.WebPages.dll
+C:\Users\dcordoba.SSVMN\Documents\Visual Studio 2017\Projects\cenfo_proyecto_2_2018\API\Components\WebAPI\bin\System.Web.WebPages.Razor.dll
+C:\Users\dcordoba.SSVMN\Documents\Visual Studio 2017\Projects\cenfo_proyecto_2_2018\API\Components\WebAPI\bin\WebGrease.dll
+C:\Users\dcordoba.SSVMN\Documents\Visual Studio 2017\Projects\cenfo_proyecto_2_2018\API\Components\WebAPI\bin\DataAcess.dll
+C:\Users\dcordoba.SSVMN\Documents\Visual Studio 2017\Projects\cenfo_proyecto_2_2018\API\Components\WebAPI\bin\CoreAPI.pdb
+C:\Users\dcordoba.SSVMN\Documents\Visual Studio 2017\Projects\cenfo_proyecto_2_2018\API\Components\WebAPI\bin\Entities-POJO.pdb
+C:\Users\dcordoba.SSVMN\Documents\Visual Studio 2017\Projects\cenfo_proyecto_2_2018\API\Components\WebAPI\bin\Exceptions.pdb
+C:\Users\dcordoba.SSVMN\Documents\Visual Studio 2017\Projects\cenfo_proyecto_2_2018\API\Components\WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\dcordoba.SSVMN\Documents\Visual Studio 2017\Projects\cenfo_proyecto_2_2018\API\Components\WebAPI\bin\Newtonsoft.Json.xml
+C:\Users\dcordoba.SSVMN\Documents\Visual Studio 2017\Projects\cenfo_proyecto_2_2018\API\Components\WebAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\dcordoba.SSVMN\Documents\Visual Studio 2017\Projects\cenfo_proyecto_2_2018\API\Components\WebAPI\bin\System.Web.Helpers.xml
+C:\Users\dcordoba.SSVMN\Documents\Visual Studio 2017\Projects\cenfo_proyecto_2_2018\API\Components\WebAPI\bin\System.Web.Http.xml
+C:\Users\dcordoba.SSVMN\Documents\Visual Studio 2017\Projects\cenfo_proyecto_2_2018\API\Components\WebAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\dcordoba.SSVMN\Documents\Visual Studio 2017\Projects\cenfo_proyecto_2_2018\API\Components\WebAPI\bin\System.Web.Mvc.xml
+C:\Users\dcordoba.SSVMN\Documents\Visual Studio 2017\Projects\cenfo_proyecto_2_2018\API\Components\WebAPI\bin\System.Web.Optimization.xml
+C:\Users\dcordoba.SSVMN\Documents\Visual Studio 2017\Projects\cenfo_proyecto_2_2018\API\Components\WebAPI\bin\System.Web.Razor.xml
+C:\Users\dcordoba.SSVMN\Documents\Visual Studio 2017\Projects\cenfo_proyecto_2_2018\API\Components\WebAPI\bin\System.Web.WebPages.xml
+C:\Users\dcordoba.SSVMN\Documents\Visual Studio 2017\Projects\cenfo_proyecto_2_2018\API\Components\WebAPI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\dcordoba.SSVMN\Documents\Visual Studio 2017\Projects\cenfo_proyecto_2_2018\API\Components\WebAPI\bin\System.Web.WebPages.Razor.xml
+C:\Users\dcordoba.SSVMN\Documents\Visual Studio 2017\Projects\cenfo_proyecto_2_2018\API\Components\WebAPI\bin\Antlr3.Runtime.pdb
+C:\Users\dcordoba.SSVMN\Documents\Visual Studio 2017\Projects\cenfo_proyecto_2_2018\API\Components\WebAPI\bin\Microsoft.ApplicationInsights.xml
+C:\Users\dcordoba.SSVMN\Documents\Visual Studio 2017\Projects\cenfo_proyecto_2_2018\API\Components\WebAPI\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\dcordoba.SSVMN\Documents\Visual Studio 2017\Projects\cenfo_proyecto_2_2018\API\Components\WebAPI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\dcordoba.SSVMN\Documents\Visual Studio 2017\Projects\cenfo_proyecto_2_2018\API\Components\WebAPI\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\dcordoba.SSVMN\Documents\Visual Studio 2017\Projects\cenfo_proyecto_2_2018\API\Components\WebAPI\bin\Microsoft.AI.Web.xml
+C:\Users\dcordoba.SSVMN\Documents\Visual Studio 2017\Projects\cenfo_proyecto_2_2018\API\Components\WebAPI\bin\DataAcess.pdb
+C:\Users\dcordoba.SSVMN\Documents\Visual Studio 2017\Projects\cenfo_proyecto_2_2018\API\Components\WebAPI\obj\Debug\WebAPI.csprojAssemblyReference.cache
+C:\Users\dcordoba.SSVMN\Documents\Visual Studio 2017\Projects\cenfo_proyecto_2_2018\API\Components\WebAPI\obj\Debug\WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\dcordoba.SSVMN\Documents\Visual Studio 2017\Projects\cenfo_proyecto_2_2018\API\Components\WebAPI\obj\Debug\WebAPI.csproj.CopyComplete
+C:\Users\dcordoba.SSVMN\Documents\Visual Studio 2017\Projects\cenfo_proyecto_2_2018\API\Components\WebAPI\obj\Debug\WebAPI.dll
+C:\Users\dcordoba.SSVMN\Documents\Visual Studio 2017\Projects\cenfo_proyecto_2_2018\API\Components\WebAPI\obj\Debug\WebAPI.pdb
+C:\Users\Developer\Documents\repos\CENFO_IPS201901\cenfo_proyecto_2_2019_01\Capa API\Components\WebAPI\obj\Debug\WebAPI.csprojAssemblyReference.cache
+C:\Users\Developer\Documents\repos\CENFO_IPS201901\cenfo_proyecto_2_2019_01\Capa API\Components\WebAPI\obj\Debug\WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\Developer\Documents\repos\CENFO_IPS201901\cenfo_proyecto_2_2019_01\Capa API\Components\WebAPI\bin\ApplicationInsights.config
+C:\Users\Developer\Documents\repos\CENFO_IPS201901\cenfo_proyecto_2_2019_01\Capa API\Components\WebAPI\bin\WebAPI.dll.config
+C:\Users\Developer\Documents\repos\CENFO_IPS201901\cenfo_proyecto_2_2019_01\Capa API\Components\WebAPI\bin\WebAPI.dll
+C:\Users\Developer\Documents\repos\CENFO_IPS201901\cenfo_proyecto_2_2019_01\Capa API\Components\WebAPI\bin\WebAPI.pdb
+C:\Users\Developer\Documents\repos\CENFO_IPS201901\cenfo_proyecto_2_2019_01\Capa API\Components\WebAPI\bin\Antlr3.Runtime.dll
+C:\Users\Developer\Documents\repos\CENFO_IPS201901\cenfo_proyecto_2_2019_01\Capa API\Components\WebAPI\bin\CoreAPI.dll
+C:\Users\Developer\Documents\repos\CENFO_IPS201901\cenfo_proyecto_2_2019_01\Capa API\Components\WebAPI\bin\Entities-POJO.dll
+C:\Users\Developer\Documents\repos\CENFO_IPS201901\cenfo_proyecto_2_2019_01\Capa API\Components\WebAPI\bin\Exceptions.dll
+C:\Users\Developer\Documents\repos\CENFO_IPS201901\cenfo_proyecto_2_2019_01\Capa API\Components\WebAPI\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Developer\Documents\repos\CENFO_IPS201901\cenfo_proyecto_2_2019_01\Capa API\Components\WebAPI\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Developer\Documents\repos\CENFO_IPS201901\cenfo_proyecto_2_2019_01\Capa API\Components\WebAPI\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Developer\Documents\repos\CENFO_IPS201901\cenfo_proyecto_2_2019_01\Capa API\Components\WebAPI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Developer\Documents\repos\CENFO_IPS201901\cenfo_proyecto_2_2019_01\Capa API\Components\WebAPI\bin\Microsoft.AI.Web.dll
+C:\Users\Developer\Documents\repos\CENFO_IPS201901\cenfo_proyecto_2_2019_01\Capa API\Components\WebAPI\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Developer\Documents\repos\CENFO_IPS201901\cenfo_proyecto_2_2019_01\Capa API\Components\WebAPI\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Developer\Documents\repos\CENFO_IPS201901\cenfo_proyecto_2_2019_01\Capa API\Components\WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Developer\Documents\repos\CENFO_IPS201901\cenfo_proyecto_2_2019_01\Capa API\Components\WebAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Developer\Documents\repos\CENFO_IPS201901\cenfo_proyecto_2_2019_01\Capa API\Components\WebAPI\bin\Newtonsoft.Json.dll
+C:\Users\Developer\Documents\repos\CENFO_IPS201901\cenfo_proyecto_2_2019_01\Capa API\Components\WebAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\Developer\Documents\repos\CENFO_IPS201901\cenfo_proyecto_2_2019_01\Capa API\Components\WebAPI\bin\System.Web.Helpers.dll
+C:\Users\Developer\Documents\repos\CENFO_IPS201901\cenfo_proyecto_2_2019_01\Capa API\Components\WebAPI\bin\System.Web.Http.dll
+C:\Users\Developer\Documents\repos\CENFO_IPS201901\cenfo_proyecto_2_2019_01\Capa API\Components\WebAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\Developer\Documents\repos\CENFO_IPS201901\cenfo_proyecto_2_2019_01\Capa API\Components\WebAPI\bin\System.Web.Mvc.dll
+C:\Users\Developer\Documents\repos\CENFO_IPS201901\cenfo_proyecto_2_2019_01\Capa API\Components\WebAPI\bin\System.Web.Optimization.dll
+C:\Users\Developer\Documents\repos\CENFO_IPS201901\cenfo_proyecto_2_2019_01\Capa API\Components\WebAPI\bin\System.Web.Razor.dll
+C:\Users\Developer\Documents\repos\CENFO_IPS201901\cenfo_proyecto_2_2019_01\Capa API\Components\WebAPI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Developer\Documents\repos\CENFO_IPS201901\cenfo_proyecto_2_2019_01\Capa API\Components\WebAPI\bin\System.Web.WebPages.dll
+C:\Users\Developer\Documents\repos\CENFO_IPS201901\cenfo_proyecto_2_2019_01\Capa API\Components\WebAPI\bin\System.Web.WebPages.Razor.dll
+C:\Users\Developer\Documents\repos\CENFO_IPS201901\cenfo_proyecto_2_2019_01\Capa API\Components\WebAPI\bin\WebGrease.dll
+C:\Users\Developer\Documents\repos\CENFO_IPS201901\cenfo_proyecto_2_2019_01\Capa API\Components\WebAPI\bin\DataAcess.dll
+C:\Users\Developer\Documents\repos\CENFO_IPS201901\cenfo_proyecto_2_2019_01\Capa API\Components\WebAPI\bin\CoreAPI.pdb
+C:\Users\Developer\Documents\repos\CENFO_IPS201901\cenfo_proyecto_2_2019_01\Capa API\Components\WebAPI\bin\Entities-POJO.pdb
+C:\Users\Developer\Documents\repos\CENFO_IPS201901\cenfo_proyecto_2_2019_01\Capa API\Components\WebAPI\bin\Exceptions.pdb
+C:\Users\Developer\Documents\repos\CENFO_IPS201901\cenfo_proyecto_2_2019_01\Capa API\Components\WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Developer\Documents\repos\CENFO_IPS201901\cenfo_proyecto_2_2019_01\Capa API\Components\WebAPI\bin\Newtonsoft.Json.xml
+C:\Users\Developer\Documents\repos\CENFO_IPS201901\cenfo_proyecto_2_2019_01\Capa API\Components\WebAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\Developer\Documents\repos\CENFO_IPS201901\cenfo_proyecto_2_2019_01\Capa API\Components\WebAPI\bin\System.Web.Helpers.xml
+C:\Users\Developer\Documents\repos\CENFO_IPS201901\cenfo_proyecto_2_2019_01\Capa API\Components\WebAPI\bin\System.Web.Http.xml
+C:\Users\Developer\Documents\repos\CENFO_IPS201901\cenfo_proyecto_2_2019_01\Capa API\Components\WebAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\Developer\Documents\repos\CENFO_IPS201901\cenfo_proyecto_2_2019_01\Capa API\Components\WebAPI\bin\System.Web.Mvc.xml
+C:\Users\Developer\Documents\repos\CENFO_IPS201901\cenfo_proyecto_2_2019_01\Capa API\Components\WebAPI\bin\System.Web.Optimization.xml
+C:\Users\Developer\Documents\repos\CENFO_IPS201901\cenfo_proyecto_2_2019_01\Capa API\Components\WebAPI\bin\System.Web.Razor.xml
+C:\Users\Developer\Documents\repos\CENFO_IPS201901\cenfo_proyecto_2_2019_01\Capa API\Components\WebAPI\bin\System.Web.WebPages.xml
+C:\Users\Developer\Documents\repos\CENFO_IPS201901\cenfo_proyecto_2_2019_01\Capa API\Components\WebAPI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Developer\Documents\repos\CENFO_IPS201901\cenfo_proyecto_2_2019_01\Capa API\Components\WebAPI\bin\System.Web.WebPages.Razor.xml
+C:\Users\Developer\Documents\repos\CENFO_IPS201901\cenfo_proyecto_2_2019_01\Capa API\Components\WebAPI\bin\Antlr3.Runtime.pdb
+C:\Users\Developer\Documents\repos\CENFO_IPS201901\cenfo_proyecto_2_2019_01\Capa API\Components\WebAPI\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Developer\Documents\repos\CENFO_IPS201901\cenfo_proyecto_2_2019_01\Capa API\Components\WebAPI\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Developer\Documents\repos\CENFO_IPS201901\cenfo_proyecto_2_2019_01\Capa API\Components\WebAPI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Developer\Documents\repos\CENFO_IPS201901\cenfo_proyecto_2_2019_01\Capa API\Components\WebAPI\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Developer\Documents\repos\CENFO_IPS201901\cenfo_proyecto_2_2019_01\Capa API\Components\WebAPI\bin\Microsoft.AI.Web.xml
+C:\Users\Developer\Documents\repos\CENFO_IPS201901\cenfo_proyecto_2_2019_01\Capa API\Components\WebAPI\bin\DataAcess.pdb
+C:\Users\Developer\Documents\repos\CENFO_IPS201901\cenfo_proyecto_2_2019_01\Capa API\Components\WebAPI\obj\Debug\WebAPI.csproj.CopyComplete
+C:\Users\Developer\Documents\repos\CENFO_IPS201901\cenfo_proyecto_2_2019_01\Capa API\Components\WebAPI\obj\Debug\WebAPI.dll
+C:\Users\Developer\Documents\repos\CENFO_IPS201901\cenfo_proyecto_2_2019_01\Capa API\Components\WebAPI\obj\Debug\WebAPI.pdb
+C:\Users\Developer\Documents\repos\CENFO_IPS201901\cenfo_proyecto_2_2019_01\Capa WEB\Components\WebAPI\bin\ApplicationInsights.config
+C:\Users\Developer\Documents\repos\CENFO_IPS201901\cenfo_proyecto_2_2019_01\Capa WEB\Components\WebAPI\bin\WebAPI.dll.config
+C:\Users\Developer\Documents\repos\CENFO_IPS201901\cenfo_proyecto_2_2019_01\Capa WEB\Components\WebAPI\bin\WebAPI.dll
+C:\Users\Developer\Documents\repos\CENFO_IPS201901\cenfo_proyecto_2_2019_01\Capa WEB\Components\WebAPI\bin\WebAPI.pdb
+C:\Users\Developer\Documents\repos\CENFO_IPS201901\cenfo_proyecto_2_2019_01\Capa WEB\Components\WebAPI\bin\Antlr3.Runtime.dll
+C:\Users\Developer\Documents\repos\CENFO_IPS201901\cenfo_proyecto_2_2019_01\Capa WEB\Components\WebAPI\bin\CoreAPI.dll
+C:\Users\Developer\Documents\repos\CENFO_IPS201901\cenfo_proyecto_2_2019_01\Capa WEB\Components\WebAPI\bin\Entities-POJO.dll
+C:\Users\Developer\Documents\repos\CENFO_IPS201901\cenfo_proyecto_2_2019_01\Capa WEB\Components\WebAPI\bin\Exceptions.dll
+C:\Users\Developer\Documents\repos\CENFO_IPS201901\cenfo_proyecto_2_2019_01\Capa WEB\Components\WebAPI\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Developer\Documents\repos\CENFO_IPS201901\cenfo_proyecto_2_2019_01\Capa WEB\Components\WebAPI\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Developer\Documents\repos\CENFO_IPS201901\cenfo_proyecto_2_2019_01\Capa WEB\Components\WebAPI\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Developer\Documents\repos\CENFO_IPS201901\cenfo_proyecto_2_2019_01\Capa WEB\Components\WebAPI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Developer\Documents\repos\CENFO_IPS201901\cenfo_proyecto_2_2019_01\Capa WEB\Components\WebAPI\bin\Microsoft.AI.Web.dll
+C:\Users\Developer\Documents\repos\CENFO_IPS201901\cenfo_proyecto_2_2019_01\Capa WEB\Components\WebAPI\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Developer\Documents\repos\CENFO_IPS201901\cenfo_proyecto_2_2019_01\Capa WEB\Components\WebAPI\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Developer\Documents\repos\CENFO_IPS201901\cenfo_proyecto_2_2019_01\Capa WEB\Components\WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Developer\Documents\repos\CENFO_IPS201901\cenfo_proyecto_2_2019_01\Capa WEB\Components\WebAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Developer\Documents\repos\CENFO_IPS201901\cenfo_proyecto_2_2019_01\Capa WEB\Components\WebAPI\bin\Newtonsoft.Json.dll
+C:\Users\Developer\Documents\repos\CENFO_IPS201901\cenfo_proyecto_2_2019_01\Capa WEB\Components\WebAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\Developer\Documents\repos\CENFO_IPS201901\cenfo_proyecto_2_2019_01\Capa WEB\Components\WebAPI\bin\System.Web.Helpers.dll
+C:\Users\Developer\Documents\repos\CENFO_IPS201901\cenfo_proyecto_2_2019_01\Capa WEB\Components\WebAPI\bin\System.Web.Http.dll
+C:\Users\Developer\Documents\repos\CENFO_IPS201901\cenfo_proyecto_2_2019_01\Capa WEB\Components\WebAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\Developer\Documents\repos\CENFO_IPS201901\cenfo_proyecto_2_2019_01\Capa WEB\Components\WebAPI\bin\System.Web.Mvc.dll
+C:\Users\Developer\Documents\repos\CENFO_IPS201901\cenfo_proyecto_2_2019_01\Capa WEB\Components\WebAPI\bin\System.Web.Optimization.dll
+C:\Users\Developer\Documents\repos\CENFO_IPS201901\cenfo_proyecto_2_2019_01\Capa WEB\Components\WebAPI\bin\System.Web.Razor.dll
+C:\Users\Developer\Documents\repos\CENFO_IPS201901\cenfo_proyecto_2_2019_01\Capa WEB\Components\WebAPI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Developer\Documents\repos\CENFO_IPS201901\cenfo_proyecto_2_2019_01\Capa WEB\Components\WebAPI\bin\System.Web.WebPages.dll
+C:\Users\Developer\Documents\repos\CENFO_IPS201901\cenfo_proyecto_2_2019_01\Capa WEB\Components\WebAPI\bin\System.Web.WebPages.Razor.dll
+C:\Users\Developer\Documents\repos\CENFO_IPS201901\cenfo_proyecto_2_2019_01\Capa WEB\Components\WebAPI\bin\WebGrease.dll
+C:\Users\Developer\Documents\repos\CENFO_IPS201901\cenfo_proyecto_2_2019_01\Capa WEB\Components\WebAPI\bin\DataAcess.dll
+C:\Users\Developer\Documents\repos\CENFO_IPS201901\cenfo_proyecto_2_2019_01\Capa WEB\Components\WebAPI\bin\CoreAPI.pdb
+C:\Users\Developer\Documents\repos\CENFO_IPS201901\cenfo_proyecto_2_2019_01\Capa WEB\Components\WebAPI\bin\Entities-POJO.pdb
+C:\Users\Developer\Documents\repos\CENFO_IPS201901\cenfo_proyecto_2_2019_01\Capa WEB\Components\WebAPI\bin\Exceptions.pdb
+C:\Users\Developer\Documents\repos\CENFO_IPS201901\cenfo_proyecto_2_2019_01\Capa WEB\Components\WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Developer\Documents\repos\CENFO_IPS201901\cenfo_proyecto_2_2019_01\Capa WEB\Components\WebAPI\bin\Newtonsoft.Json.xml
+C:\Users\Developer\Documents\repos\CENFO_IPS201901\cenfo_proyecto_2_2019_01\Capa WEB\Components\WebAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\Developer\Documents\repos\CENFO_IPS201901\cenfo_proyecto_2_2019_01\Capa WEB\Components\WebAPI\bin\System.Web.Helpers.xml
+C:\Users\Developer\Documents\repos\CENFO_IPS201901\cenfo_proyecto_2_2019_01\Capa WEB\Components\WebAPI\bin\System.Web.Http.xml
+C:\Users\Developer\Documents\repos\CENFO_IPS201901\cenfo_proyecto_2_2019_01\Capa WEB\Components\WebAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\Developer\Documents\repos\CENFO_IPS201901\cenfo_proyecto_2_2019_01\Capa WEB\Components\WebAPI\bin\System.Web.Mvc.xml
+C:\Users\Developer\Documents\repos\CENFO_IPS201901\cenfo_proyecto_2_2019_01\Capa WEB\Components\WebAPI\bin\System.Web.Optimization.xml
+C:\Users\Developer\Documents\repos\CENFO_IPS201901\cenfo_proyecto_2_2019_01\Capa WEB\Components\WebAPI\bin\System.Web.Razor.xml
+C:\Users\Developer\Documents\repos\CENFO_IPS201901\cenfo_proyecto_2_2019_01\Capa WEB\Components\WebAPI\bin\System.Web.WebPages.xml
+C:\Users\Developer\Documents\repos\CENFO_IPS201901\cenfo_proyecto_2_2019_01\Capa WEB\Components\WebAPI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Developer\Documents\repos\CENFO_IPS201901\cenfo_proyecto_2_2019_01\Capa WEB\Components\WebAPI\bin\System.Web.WebPages.Razor.xml
+C:\Users\Developer\Documents\repos\CENFO_IPS201901\cenfo_proyecto_2_2019_01\Capa WEB\Components\WebAPI\bin\Antlr3.Runtime.pdb
+C:\Users\Developer\Documents\repos\CENFO_IPS201901\cenfo_proyecto_2_2019_01\Capa WEB\Components\WebAPI\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Developer\Documents\repos\CENFO_IPS201901\cenfo_proyecto_2_2019_01\Capa WEB\Components\WebAPI\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Developer\Documents\repos\CENFO_IPS201901\cenfo_proyecto_2_2019_01\Capa WEB\Components\WebAPI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Developer\Documents\repos\CENFO_IPS201901\cenfo_proyecto_2_2019_01\Capa WEB\Components\WebAPI\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Developer\Documents\repos\CENFO_IPS201901\cenfo_proyecto_2_2019_01\Capa WEB\Components\WebAPI\bin\Microsoft.AI.Web.xml
+C:\Users\Developer\Documents\repos\CENFO_IPS201901\cenfo_proyecto_2_2019_01\Capa WEB\Components\WebAPI\bin\DataAcess.pdb
+C:\Users\Developer\Documents\repos\CENFO_IPS201901\cenfo_proyecto_2_2019_01\Capa WEB\Components\WebAPI\obj\Debug\WebAPI.csprojAssemblyReference.cache
+C:\Users\Developer\Documents\repos\CENFO_IPS201901\cenfo_proyecto_2_2019_01\Capa WEB\Components\WebAPI\obj\Debug\WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\Developer\Documents\repos\CENFO_IPS201901\cenfo_proyecto_2_2019_01\Capa WEB\Components\WebAPI\obj\Debug\WebAPI.csproj.CopyComplete
+C:\Users\Developer\Documents\repos\CENFO_IPS201901\cenfo_proyecto_2_2019_01\Capa WEB\Components\WebAPI\obj\Debug\WebAPI.dll
+C:\Users\Developer\Documents\repos\CENFO_IPS201901\cenfo_proyecto_2_2019_01\Capa WEB\Components\WebAPI\obj\Debug\WebAPI.pdb
+C:\Users\Developer\Documents\repos\CENFO_IPS201901\cenfo_proyecto_2_2019_01\Capa WEB\Components\WebAPI\bin\System.Web.Cors.dll
+C:\Users\Developer\Documents\repos\CENFO_IPS201901\cenfo_proyecto_2_2019_01\Capa WEB\Components\WebAPI\bin\System.Web.Http.Cors.dll
+C:\Users\Developer\Documents\repos\CENFO_IPS201901\cenfo_proyecto_2_2019_01\Capa WEB\Components\WebAPI\bin\System.Web.Http.Cors.xml
