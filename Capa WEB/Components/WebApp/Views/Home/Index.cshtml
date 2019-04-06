@@ -1,4 +1,2 @@
-﻿<!-- Background Image -->
-<div>
-   Example Customers App.   
-</div>
+﻿<script src="~/Scripts/Views/vIndex.js"></script>
+@Html.CtrlChart("vIndex", "myChart", "Millenials customers","'Millenials','Other generations'","bar",onLoadFunction: "GetDataToChart")

@@ -117,7 +117,15 @@ function ControlActions() {
 				ctrlActions.ShowMessage('E', data.ExceptionMessage);
 				console.log(data);
 			})
-	};
+    };
+
+
+    this.GetToApi = function (service, callbackFunction) {
+        var jqxhr = $.get(this.GetUrlApiService(service), function (response) {
+            console.log("Response " + response);
+            callbackFunction(response.Data);
+        });
+    }
 }
 
 //Custom jquery actions

@@ -29,6 +29,46 @@ namespace WebAPI.Controllers
 
             return Ok(apiResp);
         }
+        [HttpGet]
+        public IHttpActionResult GetStatistic(string type)
+        {
+
+            apiResp = new ApiResponse();
+            var mng = new CustomerManager();
+
+            if (type.Equals("millenials"))
+            {
+                var millenials = 0;
+                var noMillenias = 0;
+                foreach (Customer c in mng.RetrieveAll())
+                {
+                    if (c.Age < 36)
+                    {
+                        millenials++;
+                    }
+                    else
+                    {
+                        noMillenias++;
+                    }
+                }
+                var lst = new List<int>
+            {
+                millenials,
+                noMillenias
+            };
+
+                apiResp.Data = lst;
+
+            }
+            else
+            {
+                apiResp.Message = "Statistic not found";
+            }
+
+
+            return Ok(apiResp);
+        }
+
 
         // GET api/customer/5
         // Retrieve by id
