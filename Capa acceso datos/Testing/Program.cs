@@ -40,8 +40,9 @@ namespace Testing
                         Console.WriteLine("***************************");
                         Console.WriteLine("*****     CREATE    *******");
                         Console.WriteLine("***************************");
-                        Console.WriteLine("Type the id, name, last_name and age separated by comma");
+                        Console.WriteLine("Type the id, name, last_name and age separated by comma!!");
                         var info = Console.ReadLine();
+                        var x = 1;
                         var infoArray = info.Split(',');
 
                         customer = new Customer(infoArray);
@@ -50,7 +51,7 @@ namespace Testing
                         Console.WriteLine("Customer was created");
 
                         break;
-
+                        
                     case "2":
                         Console.WriteLine("***************************");
                         Console.WriteLine("*****  RETRIEVE ALL   *****");

@@ -27,7 +27,8 @@ namespace DataAcess.Crud
 
         public override T Retrieve<T>(BaseEntity entity)
         {
-            var lstResult = dao.ExecuteQueryProcedure(mapper.GetRetriveStatement(entity));
+            var sqlOperation = mapper.GetRetriveStatement(entity);
+            var lstResult = dao.ExecuteQueryProcedure(sqlOperation);
             var dic = new Dictionary<string, object>();
             if (lstResult.Count > 0)
             {

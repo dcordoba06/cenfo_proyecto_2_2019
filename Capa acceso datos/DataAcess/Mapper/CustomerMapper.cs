@@ -14,7 +14,7 @@ namespace DataAcess.Mapper
 
         public SqlOperation GetCreateStatement(BaseEntity entity)
         {
-            var operation = new SqlOperation {ProcedureName = "CRE_CUSTOMER_PR"};
+            var operation = new SqlOperation { ProcedureName = "CRE_CUSTOMER_PR"};
 
             var c = (Customer) entity;            
             operation.AddVarcharParam(DB_COL_ID, c.Id);

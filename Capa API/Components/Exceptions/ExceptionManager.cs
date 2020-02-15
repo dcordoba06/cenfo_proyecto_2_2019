@@ -2,6 +2,7 @@
 using Entities_POJO;
 using System;
 using System.Collections.Generic;
+using System.Configuration;
 using System.IO;
 
 namespace Exceptions
@@ -9,7 +10,7 @@ namespace Exceptions
     public class ExceptionManager
     {
     
-        public string PATH = @"C:\_temp\logs\";
+        public string PATH = "";
 
         private static ExceptionManager instance;
 
@@ -18,6 +19,7 @@ namespace Exceptions
         private ExceptionManager()
         {
             LoadMessages();
+            PATH = ConfigurationManager.AppSettings.Get("LOG_PATH");
         }
 
         public static ExceptionManager GetInstance()
@@ -33,9 +35,11 @@ namespace Exceptions
 
             var bex = new BussinessException();
 
+
             if (ex.GetType() == typeof(BussinessException))
             {
                 bex = (BussinessException)ex;
+                bex.ExceptionDetails = GetMessage(bex).Message;
             }
             else
             {
@@ -51,14 +55,14 @@ namespace Exceptions
             var today = DateTime.Now.ToString("yyyyMMdd_hh");
             var logName = PATH + today  + "_" + "log.txt";
 
-            var message = bex.Message + "\n" + bex.StackTrace + "\n";
+            var message = bex.ExceptionDetails + "\n" + bex.StackTrace + "\n";
 
-            if (bex.InnerException!=null)
-                message += bex.InnerException.Message + "\n" + bex.InnerException.StackTrace;
+            //if (bex.InnerException!=null)
+            //    message += bex.InnerException.Message + "\n" + bex.InnerException.StackTrace;
 
             using (StreamWriter w = File.AppendText(logName))
             {
-                Log(bex.Message, w);
+                Log(message, w);
             }
 
             bex.AppMessage = GetMessage(bex);
@@ -84,7 +88,8 @@ namespace Exceptions
 
         private void LoadMessages()
         {
-
+            messages.Add(3, new ApplicationMessage { Id = 3, Message = "Customer already exists in the database" });
+            messages.Add(2, new ApplicationMessage { Id = 2, Message = "Customer should be major than 18." });
             //var crudMessages = new AppMessagesCrudFactory();
 
             //var lstMessages = crudMessages.RetrieveAll<ApplicationMessage>();

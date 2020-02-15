@@ -47,6 +47,7 @@ namespace DataAcess.Dao
 
                 conn.Open();
                 command.ExecuteNonQuery();
+
             }
        }
 
@@ -55,33 +56,34 @@ namespace DataAcess.Dao
             var lstResult=new List<Dictionary<string,object>>();
 
             using (var conn = new SqlConnection(CONNECTION_STRING))
-            using (var command = new SqlCommand(sqlOperation.ProcedureName, conn)
-            {
-                CommandType = CommandType.StoredProcedure
-            })
-            { 
-                foreach (var param in sqlOperation.Parameters)
+            
+                using (var command = new SqlCommand(sqlOperation.ProcedureName, conn)
                 {
-                    command.Parameters.Add(param);
-                }
-
-                conn.Open();
-                var reader = command.ExecuteReader();
-                if (reader.HasRows)
+                    CommandType = CommandType.StoredProcedure
+                })
                 {
-                    while (reader.Read())
+                    foreach (var param in sqlOperation.Parameters)
                     {
-                        var dict = new Dictionary<string, object>();
-                        for (var lp = 0; lp < reader.FieldCount; lp++)
+                        command.Parameters.Add(param);
+                    }
+
+                    conn.Open();
+                    var reader = command.ExecuteReader();
+                    if (reader.HasRows)
+                    {
+                        while (reader.Read())
                         {
-                            dict.Add(reader.GetName(lp), reader.GetValue(lp));
+                            var dict = new Dictionary<string, object>();
+                            for (var lp = 0; lp < reader.FieldCount; lp++)
+                            {
+                                dict.Add(reader.GetName(lp), reader.GetValue(lp));
+                            }
+                            lstResult.Add(dict);
                         }
-                        lstResult.Add(dict);
                     }
                 }
-            }
 
-            return lstResult;
-        }      
-    }
+                return lstResult;
+            }
+        }   
 }

@@ -4,8 +4,9 @@
     Layout = "~/Views/Shared/_Layout.cshtml";
 }
 
-@Html.CtrlTable(viewName: "vCustomers", id: "tblCustomers", title: "Customer List",
-    columnsTitle: "Id,Name,LastName,Age", ColumnsDataName: "Id,Name,LastName,Age", onSelectFunction: "BindFields", colorHeader:"red")
+@Html.CtrlTable(viewName: "vCustomers", id: "tblCustomers", title: "Lista de clientes",
+    columnsTitle: "Id,Name,LastName,Age", ColumnsDataName: "Id,Name,LastName,Age", 
+    onSelectFunction: "BindFields", colorHeader:"red")
 
 
 <div class="card border-secondary" style="margin-top: 50px;">

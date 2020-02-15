@@ -10,6 +10,8 @@ namespace Exceptions
     public class BussinessException : Exception
     {
         public int ExceptionId;
+        public string ExceptionDetails { get; set; }
+
         public ApplicationMessage AppMessage { get; set; }
     
         public BussinessException()
@@ -24,7 +26,8 @@ namespace Exceptions
 
         public BussinessException(int exceptionId, Exception innerException)
         {
-            ExceptionId = exceptionId; 
+            ExceptionId = exceptionId;
+            ExceptionDetails = innerException.Message;
         }
     }
 }

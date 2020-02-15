@@ -3,7 +3,6 @@ C:\Users\Developer\Documents\repos\CENFO_IPS201901\cenfo_proyecto_2_2019_01\Capa
 C:\Users\Developer\Documents\repos\CENFO_IPS201901\cenfo_proyecto_2_2019_01\Capa acceso datos\DataAcess\bin\Debug\Entities-POJO.dll
 C:\Users\Developer\Documents\repos\CENFO_IPS201901\cenfo_proyecto_2_2019_01\Capa acceso datos\DataAcess\bin\Debug\Entities-POJO.pdb
 C:\Users\Developer\Documents\repos\CENFO_IPS201901\cenfo_proyecto_2_2019_01\Capa acceso datos\DataAcess\obj\Debug\DataAcess.csprojAssemblyReference.cache
-C:\Users\Developer\Documents\repos\CENFO_IPS201901\cenfo_proyecto_2_2019_01\Capa acceso datos\DataAcess\obj\Debug\DataAcess.csproj.CoreCompileInputs.cache
 C:\Users\Developer\Documents\repos\CENFO_IPS201901\cenfo_proyecto_2_2019_01\Capa acceso datos\DataAcess\obj\Debug\DataAcess.csproj.CopyComplete
 C:\Users\Developer\Documents\repos\CENFO_IPS201901\cenfo_proyecto_2_2019_01\Capa acceso datos\DataAcess\obj\Debug\DataAcess.dll
 C:\Users\Developer\Documents\repos\CENFO_IPS201901\cenfo_proyecto_2_2019_01\Capa acceso datos\DataAcess\obj\Debug\DataAcess.pdb
