@@ -26,7 +26,7 @@ namespace WebAPI.Controllers
                 var mng = new ListManager();
                 var option = new OptionList
                 {
-                    ListId="LST_GENERO"
+                    ListId=id
                 };
 
                 var lstOptions = mng.RetrieveById(option);        

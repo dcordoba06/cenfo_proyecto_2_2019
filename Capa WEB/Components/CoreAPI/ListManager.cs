@@ -26,6 +26,7 @@ namespace CoreAPI
             dicListOptions = new Dictionary<string, List<OptionList>>();
             //TODO: ESTO DEBE VENIR DE ELA BASE DE DATOS
 
+
             var lst = new List<OptionList>();
             var option = new OptionList
             {
@@ -57,6 +58,13 @@ namespace CoreAPI
            
             try
             {
+                if (option.ListId.equals("LST_OFERENTES"))
+                {
+                    //BUSCA EN OTRO MANAGER
+                    //retrieve de monedas
+                    //foreach creo los list option, con cada pojo de moneda
+                }
+
                 if (dicListOptions.ContainsKey(option.ListId))
                 {
                     return dicListOptions[option.ListId];

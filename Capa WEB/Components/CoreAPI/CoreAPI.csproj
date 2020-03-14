@@ -42,6 +42,7 @@
   <ItemGroup>
     <Compile Include="BaseManager.cs" />
     <Compile Include="CustomerManager.cs" />
+    <Compile Include="ListManager.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

@@ -82,7 +82,6 @@ C:\Users\Developer\Documents\repos\CENFO_IPS201901\cenfo_proyecto_2_2019_01\Capa
 C:\Users\Developer\Documents\repos\CENFO_IPS201901\cenfo_proyecto_2_2019_01\Capa WEB\Components\WebApp\bin\Microsoft.AI.WindowsServer.xml
 C:\Users\Developer\Documents\repos\CENFO_IPS201901\cenfo_proyecto_2_2019_01\Capa WEB\Components\WebApp\bin\Microsoft.AI.Web.xml
 C:\Users\Developer\Documents\repos\CENFO_IPS201901\cenfo_proyecto_2_2019_01\Capa WEB\Components\WebApp\obj\Debug\WebApp.csprojAssemblyReference.cache
-C:\Users\Developer\Documents\repos\CENFO_IPS201901\cenfo_proyecto_2_2019_01\Capa WEB\Components\WebApp\obj\Debug\WebApp.csproj.CoreCompileInputs.cache
 C:\Users\Developer\Documents\repos\CENFO_IPS201901\cenfo_proyecto_2_2019_01\Capa WEB\Components\WebApp\obj\Debug\WebApp.csproj.CopyComplete
 C:\Users\Developer\Documents\repos\CENFO_IPS201901\cenfo_proyecto_2_2019_01\Capa WEB\Components\WebApp\obj\Debug\WebApp.dll
 C:\Users\Developer\Documents\repos\CENFO_IPS201901\cenfo_proyecto_2_2019_01\Capa WEB\Components\WebApp\obj\Debug\WebApp.pdb

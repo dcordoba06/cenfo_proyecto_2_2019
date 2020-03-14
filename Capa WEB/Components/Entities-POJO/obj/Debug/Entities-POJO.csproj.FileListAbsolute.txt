@@ -12,7 +12,6 @@ C:\Users\Developer\Documents\repos\CENFO_IPS201901\cenfo_proyecto_2_2019_01\Capa
 C:\Users\Developer\Documents\repos\CENFO_IPS201901\cenfo_proyecto_2_2019_01\Capa API\Components\Entities-POJO\obj\Debug\Entities-POJO.csprojAssemblyReference.cache
 C:\Users\Developer\Documents\repos\CENFO_IPS201901\cenfo_proyecto_2_2019_01\Capa WEB\Components\Entities-POJO\bin\Debug\Entities-POJO.dll
 C:\Users\Developer\Documents\repos\CENFO_IPS201901\cenfo_proyecto_2_2019_01\Capa WEB\Components\Entities-POJO\bin\Debug\Entities-POJO.pdb
-C:\Users\Developer\Documents\repos\CENFO_IPS201901\cenfo_proyecto_2_2019_01\Capa WEB\Components\Entities-POJO\obj\Debug\Entities-POJO.csproj.CoreCompileInputs.cache
 C:\Users\Developer\Documents\repos\CENFO_IPS201901\cenfo_proyecto_2_2019_01\Capa WEB\Components\Entities-POJO\obj\Debug\Entities-POJO.dll
 C:\Users\Developer\Documents\repos\CENFO_IPS201901\cenfo_proyecto_2_2019_01\Capa WEB\Components\Entities-POJO\obj\Debug\Entities-POJO.pdb
 C:\Users\Developer\Documents\repos\CENFO_IPS201901\cenfo_proyecto_2_2019_01\Capa WEB\Components\Entities-POJO\bin\Debug\Newtonsoft.Json.dll

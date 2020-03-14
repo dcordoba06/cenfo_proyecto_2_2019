@@ -22,6 +22,7 @@ namespace WebApp.Helpers
                 FunctionName = onSelectFunction
             };
 
+            //return new HtmlString("<h1>"+ctrl.Title +"</h1>");
             return new HtmlString(ctrl.GetHtml());
         }
 
