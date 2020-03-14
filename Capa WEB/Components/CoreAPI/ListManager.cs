@@ -58,12 +58,12 @@ namespace CoreAPI
            
             try
             {
-                if (option.ListId.equals("LST_OFERENTES"))
-                {
-                    //BUSCA EN OTRO MANAGER
-                    //retrieve de monedas
-                    //foreach creo los list option, con cada pojo de moneda
-                }
+                //if (option.ListId.equals("LST_OFERENTES"))
+                //{
+                //    //BUSCA EN OTRO MANAGER
+                //    //retrieve de monedas
+                //    //foreach creo los list option, con cada pojo de moneda
+                //}
 
                 if (dicListOptions.ContainsKey(option.ListId))
                 {
