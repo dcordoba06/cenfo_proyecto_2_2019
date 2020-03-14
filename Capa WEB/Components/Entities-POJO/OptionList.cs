@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Entities_POJO
 {
-    public class OptionList
+    public class OptionList : BaseEntity
     {
         public string ListId { get; set; }
         public string Value { get; set; }
