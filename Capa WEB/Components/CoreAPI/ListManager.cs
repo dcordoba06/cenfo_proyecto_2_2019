@@ -13,13 +13,23 @@ namespace CoreAPI
     public class ListManager : BaseManager
     {
         private Dictionary<string, List<OptionList>> dicListOptions;
+        private static ListManager _instance;
         //private ListCrudFactory crudCustomer;
 
-        public ListManager()
+        private ListManager()
         {
             LoadDictionary();
             //crudCustomer = new ListCrudFactory();
         }
+
+        public static ListManager GetInstance()
+        {
+            if (_instance == null)            
+                _instance = new ListManager();
+
+            return _instance;
+        }
+
 
         private void LoadDictionary()
         {
@@ -29,23 +39,22 @@ namespace CoreAPI
 
             var lists=crudList.RetrieveAll<OptionList>();
 
-            var lstId = "";
+            var lstId = lists[0].ListId;
             var lstOptions = new List<OptionList>();
 
-            foreach(var l in lists)
+            for(int i=0; i< lists.Count; i++)
             {
-                if (!lstId.Equals(l.ListId))
+                var l = lists[i];
+                lstOptions.Add(new OptionList { ListId = l.ListId, Value = l.Value, Description = l.Description });
+
+                if (i==lists.Count-1 || !lists[i + 1].ListId.Equals(l.ListId))
                 {
                     dicListOptions[l.ListId] = lstOptions;
                     lstOptions = new List<OptionList>();
                     lstId = l.ListId;
                 }
-                else
-                {
-                    lstOptions.Add(new OptionList { ListId = l.ListId, Value = l.Value, Description = l.Description });
-                }
-                
-            }                      
+
+            }                          
         }
 
         public List<OptionList> RetrieveById(OptionList option)

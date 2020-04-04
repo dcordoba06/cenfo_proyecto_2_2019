@@ -22,8 +22,8 @@ namespace WebAPI.Controllers
         public IHttpActionResult Get(string id)
         {
             try
-            { 
-                var mng = new ListManager();
+            {
+                var mng = ListManager.GetInstance();
                 var option = new OptionList
                 {
                     ListId=id
