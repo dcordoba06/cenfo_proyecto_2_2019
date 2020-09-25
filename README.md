@@ -1,4 +1,4 @@
-# cenfo_proyecto_2_2019
+# cenfo_proyecto
 Código fuente curso Proyecto de Ingeniería de Software 2
 
 
